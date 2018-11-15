@@ -5,6 +5,9 @@
     "private": true,
     "license": "MIT",
     "author": "Microsoft",
+    "dependencies": {
+    "express": "^4.16.2"
+  },
     "scripts": {
         "start": "node index.js"
     }
